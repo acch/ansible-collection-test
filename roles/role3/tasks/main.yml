@@ -1,0 +1,4 @@
+---
+# tasks file for role3
+- debug:
+    msg: Hey from role3
