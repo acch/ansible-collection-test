@@ -4,7 +4,7 @@ Testing collection structure - please ignore.
 
 ## Getting Started
 
-Ansible 2.10 and above:
+Ansible 2.10 and above (see [#69154](https://github.com/ansible/ansible/pull/69154)):
 
 ```shell
 ansible-galaxy collection install git+https://github.com/acch/ansible-collection-test.git,master
